@@ -17,7 +17,7 @@ I'm a  mathematics and computers lover ！！！
 ## 🛠 Skills
 Java,C,C#,html,css,android,mongodb,mysql
 
-![App Screenshot](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+![LOGO](https://raw.githubusercontent.com/MeloShen/MeloShen/main/_image/Logo_black.jpg)
 
 
 ## 🔗 Links
