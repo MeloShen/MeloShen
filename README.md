@@ -2,7 +2,7 @@
 # Hi, this is Mello 👋
 
 
-I'm a  mathematics and computers lover ！！！
+I'm a  mathematics lover ！！！
 
 
 ## Other Common Github Profile Sections
